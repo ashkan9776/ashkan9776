@@ -5,7 +5,7 @@
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
 
-<h4 align="left" >I'm a Flutter & ReactNative developer with 3 years of experience in flutter and 2 month of expreince in ReactNative I'm interested in everything related to programming and the computer world and I always welcome new challenges.</h4>
+<h4 align="left" >I'm a Flutter & ReactNative developer with 3 years of experience in flutter and 1 years of expreince in ReactNative I'm interested in everything related to programming and the computer world and I always welcome new challenges.</h4>
 
 
 
