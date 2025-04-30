@@ -16,7 +16,7 @@
 🤝 I’m looking for help with getting a well-paying remote job
 
 
-💬 Ask me about Flutter and Unity
+💬 Ask me about Flutter and ReactNative
 
 
 
